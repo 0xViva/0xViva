@@ -4,7 +4,11 @@
 
 - 🌱 I’m currently learning NEXT.js
 - 💬 Ask me about anything 👨‍💻
-- https://twitter.com/0xViva OR on discord (0xviva)
+- 📫 Wanna contact me? Find my socials below:
+  
+**Twitter:** https://twitter.com/0xViva 
+
+**Discord:** 0xviva
 
 <h3>Workspace Spec:</h3>
 <p>
