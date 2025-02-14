@@ -3,16 +3,20 @@
 
 
 - 🌱 Currently learning:
-- 
- Game development: <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)"/> together with <img alt="bevy" src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white)"/> [Engine](https://bevyengine.org/)
+  
+ - Game development: <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)"/> together with <img alt="bevy" src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white)"/> [Engine](https://bevyengine.org/)
 
-Web development:  <img alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> together with HTMX
-- 💬 Ask me about anything 👨‍💻
+- Web development:  <img alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> together with HTMX
+
+--------------------------------
+  
 - 📫 Wanna contact me? Find my socials below:
   
-**Twitter:** https://twitter.com/0xViva 
+- **Twitter:** https://twitter.com/0xViva 
 
-**Discord:** 0xviva
+- **Discord:** 0xviva
+
+---------------------------------------------
 
 <h3>Workspace Spec:</h3>
 <p>
@@ -23,7 +27,7 @@ Laptop: MacBook Pro M1 <img alt="MacBook Pro" src="https://img.shields.io/badge/
 
 </p>
 
-
+-----
 
 <h3 align="left">Languages, Framework, Engines & Tools:</h3>
 <p align="center"> 
