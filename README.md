@@ -2,7 +2,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🌱 I’m currently learning <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)"/> together with <img alt="bevy" src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white)"/> [Engine](https://bevyengine.org/)
+- 🌱 Currently learning:
+- 
+ Game development: <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)"/> together with <img alt="bevy" src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white)"/> [Engine](https://bevyengine.org/)
+
+Web development:  <img alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> together with HTMX
 - 💬 Ask me about anything 👨‍💻
 - 📫 Wanna contact me? Find my socials below:
   
@@ -12,14 +16,16 @@
 
 <h3>Workspace Spec:</h3>
 <p>
-MacBook Pro M1 <img alt="MacBook Pro" src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white"/>
+Desktop: i7-14700F, GTX 4070 SUPER, 32GB RAM <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+Laptop: MacBook Pro M1 <img alt="MacBook Pro" src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
 
 </p>
 
 
 
-<h3 align="left">Languages, Frameworks & Tools:</h3>
+<h3 align="left">Languages, Framework, Engines & Tools:</h3>
 <p align="center"> 
 
 Python:
@@ -36,6 +42,10 @@ Javascript:
 
 Rust:
 <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)"/>
+
+Go: <img alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+
+Game Engine: <img alt="bevy" src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white)"/>
 
 HTML:
    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
