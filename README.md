@@ -8,13 +8,6 @@
 
    - Making a 2.5D MMO Space Battle Game using <img alt="bevy" src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white)"/> built on <img alt="rust" src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white"/>
 
-### 🌱Currently learning:
-
-
-<img alt="golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/> for web.
-
-<img alt="rust" src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white"/> for client and server applications.
-
 --------------------------------
   
 ### 📫 Socials:
