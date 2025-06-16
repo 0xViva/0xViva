@@ -16,6 +16,8 @@
 
 - **Discord:** 0xviva
 
+- **Telegram:** 0xviva
+
 ---------------------------------------------
 
 <h3>Workspace Specs:</h3>
