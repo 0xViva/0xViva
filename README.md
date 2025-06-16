@@ -16,7 +16,7 @@
 
 - **Discord:** 0xviva
 
-- **Telegram:** 0xviva
+- **Telegram:** @0xViva
 
 ---------------------------------------------
 
