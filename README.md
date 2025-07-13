@@ -4,9 +4,9 @@
 
 ### 👷Currently working on:
 
-  - Making web applications built on <img alt="golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/> 
+  - Building web applications in <img alt="golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/> 
 
-   - Making a 2.5D MMO Space Battle Game using <img alt="bevy" src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white)"/> built on <img alt="rust" src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white"/>
+   - Building a 2.5D MMO Space Battle Game using the <img alt="bevy" src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white)"/> game engine written in <img alt="rust" src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white"/>
 
 --------------------------------
   
