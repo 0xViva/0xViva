@@ -1,8 +1,8 @@
-<h1 align="center">Hello world 👋, I'm August, </h1>
+<h1 align="center">Hello world! </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### 👷Currently working on:
+### Currently working on:
 
   - Building TUI and web applications in <img alt="golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/> 
 
@@ -10,7 +10,7 @@
 
 --------------------------------
   
-### 📫 Socials:
+### Socials:
   
 - **Twitter:** https://twitter.com/0xViva 
 
