@@ -11,8 +11,6 @@
 --------------------------------
   
 ### Socials:
-  
-- **Twitter:** https://twitter.com/0xViva 
 
 - **Discord:** 0xviva
 
