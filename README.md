@@ -4,7 +4,7 @@
 
 ### Currently working on:
 
-  - Building my company Teknologipunktet
+  - Building software products and relations in my company Teknologipunktet
 
   - Building TUI and web applications in <img alt="golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/> 
 
