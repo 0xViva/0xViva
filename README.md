@@ -4,9 +4,9 @@
 
 ### Currently working on:
 
-  - Building software products and relations in my company at Teknologipunktet.no
+  - Building software products and relations in my company at teknologipunktet.no
 
-  - Building TUI and web applications in <img alt="golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/> 
+  - Building web and server applications in <img alt="golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/> 
 
    - Building a 2.5D MMO Space Battle Game using the <img alt="bevy" src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white)"/> game engine written in <img alt="rust" src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white"/>
 
